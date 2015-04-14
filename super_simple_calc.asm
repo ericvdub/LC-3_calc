@@ -3,16 +3,6 @@
 	.ORIG x3000
 
 
-
-
-
-
-
-
-
-
-
-
 START	LEA	R0,WelcomeMsg	; Intro message load
 	PUTS			; output the message
 LoopS
